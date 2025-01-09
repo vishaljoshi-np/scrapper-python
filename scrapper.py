@@ -12,9 +12,20 @@
     # understand inspect of website.
     # should understand concept of status code returned for website
 
+# install git
+# create repository in github
+
+# go to git bash
 # git configuration,
     # git config --global user.name "vishaljoshi-np"
     # got config --global user.email "vishaljoshi.np@gmail.com"
+
+# git init
+# git status => to check status of the files
+# git diff => to check the changes
+# git add .
+# git commit -m "Message"
+# copy paste git code from github
 
 # Importing libraries
 
