@@ -12,6 +12,10 @@
     # understand inspect of website.
     # should understand concept of status code returned for website
 
+# git configuration,
+    # git config --global user.name "vishaljoshi-np"
+    # got config --global user.email "vishaljoshi.np@gmail.com"
+
 # Importing libraries
 
 import json
